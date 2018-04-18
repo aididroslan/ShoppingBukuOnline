@@ -1,0 +1,15 @@
+
+*.config
+*.config
+ShoppingBukuOnline/ShoppingBukuOnline.csproj.user
+ShoppingBukuOnline/obj/Debug/ShoppingBukuOnline.pdb
+ShoppingBukuOnline/obj/Debug/ShoppingBukuOnline.dll
+ShoppingBukuOnline/bin/ShoppingBukuOnline.pdb
+ShoppingBukuOnline/obj/Debug/ShoppingBukuOnline.csproj.CoreCompileInputs.cache
+.vs/config/applicationhost.config
+.vs/ShoppingBukuOnline/v15/.suo
+.vs/ShoppingBukuOnline/v15/Server/sqlite3/db.lock
+.vs/ShoppingBukuOnline/v15/Server/sqlite3/storage.ide
+ShoppingBukuOnline/bin/ShoppingBukuOnline.dll
+*.pdb
+ShoppingBukuOnline/obj/Debug/ShoppingBukuOnline.dll
