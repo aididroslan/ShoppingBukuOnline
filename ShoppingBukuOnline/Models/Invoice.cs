@@ -5,9 +5,9 @@ using System.Web;
 
 namespace ShoppingBukuOnline.Models
 {
-    public class Sales
+    public class Invoice
     {
-        public string salesID { set; get; }
+        public string invoiceID { set; get; }
         public string custID { set; get; }
         public string date { set; get; }
         public double totalPayment { set; get; }

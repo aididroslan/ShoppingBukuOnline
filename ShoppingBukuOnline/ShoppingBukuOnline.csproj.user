@@ -9,16 +9,6 @@
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_ViewDialogWidth>600</WebStackScaffolding_ViewDialogWidth>
     <UseIISExpress>true</UseIISExpress>
-    <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
-<<<<<<< HEAD
-=======
-    <Use64BitIISExpress />
-    <IISExpressSSLPort />
-    <IISExpressAnonymousAuthentication />
-    <IISExpressWindowsAuthentication />
-    <IISExpressUseClassicPipelineMode />
-    <UseGlobalApplicationHostFile />
->>>>>>> 1d960fc142b77374c4b95da49174519a96592f28
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
