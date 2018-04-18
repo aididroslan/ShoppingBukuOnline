@@ -10,12 +10,9 @@
     <WebStackScaffolding_ViewDialogWidth>600</WebStackScaffolding_ViewDialogWidth>
     <UseIISExpress>true</UseIISExpress>
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
 >>>>>>> parent of 0b12929... Merge branch 'master' of https://github.com/aididroslan/ShoppingBukuOnline
-=======
->>>>>>> parent of 95ce375... Test
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
